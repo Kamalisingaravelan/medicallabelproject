@@ -1,0 +1,37 @@
+RDBMS
+
+SQL No-S QL
+
+MYSQL
+MSSQL
+OR
+
+
+
+DDL
+create,Alter,Drop
+
+
+DML
+insert,update,Delete,Select
+
+
+DCL
+grand,Invoke
+
+
+DQL
+select
+
+
+
+insert into regtb values('','',..)
+ 
+
+update regtb set mobile='' where id=''
+
+delete from regtb where  id=''
+
+
+select * from regtb 
+
